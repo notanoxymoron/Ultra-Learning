@@ -1,5 +1,5 @@
 # Ultra-Learning
-Ultralearning project ideas
+**Ultralearning project ideas**:
 
 1. Build a Website
 2. Complete 365 DS Curriculum
